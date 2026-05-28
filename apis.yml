@@ -1,0 +1,32 @@
+aid: weather-api
+name: weather-api
+description: "A RESTful free API to check the weather"
+url: https://github.com/robertoduessmann/weather-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Weather"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Weather
+  - Public APIs
+apis:
+  - name: weather-api
+    description: "A RESTful free API to check the weather"
+    humanURL: https://github.com/robertoduessmann/weather-api
+    baseURL: https://github.com/robertoduessmann/weather-api
+    tags:
+      - Weather
+    properties:
+      - type: Documentation
+        url: https://github.com/robertoduessmann/weather-api
+common:
+  - type: Website
+    url: https://github.com/robertoduessmann/weather-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
